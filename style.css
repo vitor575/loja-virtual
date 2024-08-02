@@ -6,3 +6,21 @@
     width: 325px;
     list-style-type: none;
 }
+
+.verde-fluorescente {
+    color: #DAFF01;
+}
+
+.botao-lilas {
+    background: #9353FF;
+} 
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
